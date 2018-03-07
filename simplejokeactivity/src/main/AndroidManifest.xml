@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="name.oho.simplejokeactivity">
+
+    <application>
+        <activity
+            android:name=".SimpleJokeActivity"
+            android:label="@string/title_activity_simple_joke"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
