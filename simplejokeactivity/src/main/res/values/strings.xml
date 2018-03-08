@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Simple Joke Activity</string>
     <string name="title_activity_simple_joke">SimpleJokeActivity</string>
-    <string name="no_joke">Oops! Something went wrong.</string>
 </resources>

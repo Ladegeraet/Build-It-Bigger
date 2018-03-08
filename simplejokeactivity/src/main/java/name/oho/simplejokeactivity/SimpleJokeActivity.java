@@ -25,11 +25,7 @@ public class SimpleJokeActivity extends AppCompatActivity {
 
         if (getIntent().hasExtra(EXTRA_JOKE)) {
             mTextView.setText(getIntent().getStringExtra(EXTRA_JOKE));
-        } else {
-            mTextView.setText(R.string.no_joke);
         }
-
-
     }
 
 }

@@ -70,8 +70,4 @@ public class MainActivity extends AppCompatActivity {
         mLoadingIndicator.setVisibility(View.VISIBLE);
         new EndpointsAsyncTask().execute(new Pair<Context, String>(this, mSimpleJoke.tellJoke()));
     }
-
-
-
-
 }
